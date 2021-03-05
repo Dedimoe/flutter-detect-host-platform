@@ -2,7 +2,7 @@
 Flutter: detect host platform
 
 
-in pubspec.yml add :
+in ```pubspec.yml``` add :
 ```
 dependencies:
   universal_platform: ^0.1.3
@@ -27,4 +27,4 @@ if (UniversalPlatform.isWeb) {
 
 ```
 
-reference : from [universal_platform](https://pub.dev/packages/universal_platform)
+reference : from [universal_platform](https://pub.dev/packages/universal_platform).
