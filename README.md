@@ -1,7 +1,6 @@
 # flutter-detect-host-platform
 Flutter: detect host platform
 
-Use Universal Platform package:
 
 in pubspec.yml add :
 ```
